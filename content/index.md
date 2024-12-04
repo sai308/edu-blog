@@ -8,25 +8,21 @@ navigation: false
 announcement:
   title: 'Release v0.8.2'
   icon: '🎉'
-  to: <https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases/latest>
+  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases/latest
   target: _blank
 actions:
-
-- name: Get Started
+  - name: Get Started
     to: /getting-started
-- name: GitHub
+  - name: GitHub
     variant: outline
-    to: <https://github.com/ZTL-UwU/shadcn-docs-nuxt>
+    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
     leftIcon: 'lucide:github'
-
 ---
 
-# title
-
+#title
 Effortless and Beautiful :br Docs Template.
 
-# description
-
+#description
 Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
 ::
 
